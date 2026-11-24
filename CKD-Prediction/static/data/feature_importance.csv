@@ -1,0 +1,97 @@
+Algorithm,Feature,Importance
+Random Forest,sg,0.016400000000000015
+Random Forest,sc,0.001100000000000001
+Random Forest,pcv,0.0003333333333333299
+Random Forest,htn,0.00033333333333331885
+Random Forest,hemo,0.0002666666666666706
+Random Forest,ba,4.4408920985006264e-17
+Random Forest,pc,2.2204460492503132e-17
+Random Forest,age,2.2204460492503132e-17
+Random Forest,rc,1.1102230246251566e-17
+Random Forest,pot,1.1102230246251566e-17
+Random Forest,wc,1.1102230246251566e-17
+Random Forest,pcc,1.1102230246251566e-17
+Random Forest,su,1.1102230246251566e-17
+Random Forest,sod,1.1102230246251566e-17
+Random Forest,bp,0.0
+Random Forest,al,0.0
+Random Forest,rbc,0.0
+Random Forest,bu,0.0
+Random Forest,bgr,0.0
+Random Forest,dm,0.0
+Random Forest,cad,0.0
+Random Forest,appet,0.0
+Random Forest,pe,0.0
+Random Forest,ane,0.0
+Bagging Classifier,sg,0.05830000000000004
+Bagging Classifier,hemo,0.023533333333333396
+Bagging Classifier,htn,0.003433333333333377
+Bagging Classifier,rc,0.0031666666666667065
+Bagging Classifier,sc,0.002700000000000047
+Bagging Classifier,bu,0.001466666666666705
+Bagging Classifier,pcv,0.0004000000000000781
+Bagging Classifier,al,0.00040000000000006697
+Bagging Classifier,appet,9.992007221626409e-17
+Bagging Classifier,pe,7.771561172376095e-17
+Bagging Classifier,dm,4.4408920985006264e-17
+Bagging Classifier,su,4.4408920985006264e-17
+Bagging Classifier,rbc,3.3306690738754695e-17
+Bagging Classifier,bgr,3.3306690738754695e-17
+Bagging Classifier,bp,2.2204460492503132e-17
+Bagging Classifier,age,0.0
+Bagging Classifier,pcc,0.0
+Bagging Classifier,pc,0.0
+Bagging Classifier,ba,0.0
+Bagging Classifier,pot,0.0
+Bagging Classifier,sod,0.0
+Bagging Classifier,wc,0.0
+Bagging Classifier,cad,0.0
+Bagging Classifier,ane,0.0
+AdaBoost,hemo,0.010333333333333361
+AdaBoost,sg,0.009866666666666657
+AdaBoost,sc,0.006133333333333301
+AdaBoost,al,0.00020000000000001129
+AdaBoost,bgr,1.1102230246251566e-17
+AdaBoost,su,0.0
+AdaBoost,bp,0.0
+AdaBoost,age,0.0
+AdaBoost,pcc,0.0
+AdaBoost,pc,0.0
+AdaBoost,rbc,0.0
+AdaBoost,ba,0.0
+AdaBoost,bu,0.0
+AdaBoost,sod,0.0
+AdaBoost,pot,0.0
+AdaBoost,pcv,0.0
+AdaBoost,wc,0.0
+AdaBoost,rc,0.0
+AdaBoost,htn,0.0
+AdaBoost,dm,0.0
+AdaBoost,cad,0.0
+AdaBoost,appet,0.0
+AdaBoost,pe,0.0
+AdaBoost,ane,0.0
+Gradient Boosting,sg,0.05946666666666668
+Gradient Boosting,hemo,0.014533333333333353
+Gradient Boosting,sc,0.0010666666666666492
+Gradient Boosting,rbc,1.1102230246251566e-17
+Gradient Boosting,pcv,1.1102230246251566e-17
+Gradient Boosting,al,0.0
+Gradient Boosting,bp,0.0
+Gradient Boosting,age,0.0
+Gradient Boosting,pcc,0.0
+Gradient Boosting,pc,0.0
+Gradient Boosting,su,0.0
+Gradient Boosting,ba,0.0
+Gradient Boosting,bu,0.0
+Gradient Boosting,bgr,0.0
+Gradient Boosting,pot,0.0
+Gradient Boosting,sod,0.0
+Gradient Boosting,wc,0.0
+Gradient Boosting,rc,0.0
+Gradient Boosting,htn,0.0
+Gradient Boosting,dm,0.0
+Gradient Boosting,cad,0.0
+Gradient Boosting,appet,0.0
+Gradient Boosting,pe,0.0
+Gradient Boosting,ane,0.0

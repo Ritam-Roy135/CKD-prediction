@@ -1,0 +1,5 @@
+Algorithm,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Random Forest,1.0,1.0,1.0,1.0,1.0
+Bagging Classifier,0.975,0.98,0.98,0.98,0.9993333333333334
+AdaBoost,1.0,1.0,1.0,1.0,1.0
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0
